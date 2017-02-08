@@ -1,0 +1,6 @@
+docker-build-step:latest
+docker-build-publish:latest
+docker-custom-build-environment:latest
+scm-api:latest
+git:latest
+git-client:latest
